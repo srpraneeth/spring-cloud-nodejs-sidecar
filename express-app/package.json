@@ -1,0 +1,26 @@
+{
+  "name": "node-express-app",
+  "version": "1.0.0",
+  "description": "Simple node js web services for registering to eureka cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "eureka",
+    "spring",
+    "cloud",
+    "sidecar",
+    "netflix",
+    "prana",
+    "service",
+    "discovery"
+  ],
+  "author": "sr.praneeth@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
